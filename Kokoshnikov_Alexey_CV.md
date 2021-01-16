@@ -1,8 +1,6 @@
 **PERSONAL INFORMATION**
 
 * Name		Kokoshnikov Alexey
-* Address		45 KOMSOMOLSKAY ST. SEMENOV, NIZNY NOVGORD REGION, RUSSIA
-* Phone		
 * E-mail		alexeikokoshnikov@gmail.com
 * Nationality		Russian
 * Date of birth		22 JULY 1994
@@ -15,22 +13,33 @@
   * Project description:
       hidden.
   * Used skills:
-      * Languages: C/C++, Python
-      * IDE/Build systems/tools: Visual Studio (build tools), Android Studio, CMake, Ninja, Python, GIT, GitLab
-      * Other: great experience in working with existing code, implementation / debug multi thread code, optimization for GPU (OpenCL, CUDA, Halide, NEON) native C++ on Android, using dynamic libraries (Windows and Ubuntu as host OS).
-  * Key accomplishments:
+      * Languages: C/C++, Python.
+      * IDE/Build systems/tools: Visual Studio (build tools), Android Studio, CMake, Ninja, Python, GIT, GitLab.
+      * Other: great experience in working with existing code (rework algorithms), implementation / debug multi thread code and vectorization, optimization for GPU (OpenCL, CUDA, Halide, NEON) native C++ on Android, using dynamic libraries (Windows and Ubuntu as host OS).
+  * Key accomplishments: hidden. Some related public materials - https://github.com/akokoshn/Halide/wiki/Scheduling:-simple-examples-&-workarounds.
 * Software Developer in Intel since September 2014 to June 2019
-  * Main activities and responsibilities:
-  * Project description:
+  * Main activities and responsibilities: develop features, fix bugs, communication with customers / stack holders
+  * Project description: media library for work with video: decoding, encoding, video processing, target on performance (MSDK) – cross platform  (Windows, Linux, Android) dynamic library,  middle ware between application and driver which provide API for execute decode/encode/vp on Intel integrated GPU.
   * Used skills:
-  * Key accomplishments:
+      * Languages: C/C++, Java, C#, Perl.
+      * IDE/Build systems/tools: Visual Studio, Android Studio, CMake, Ninja, Python, GIT, Intel VTune, GPUView.
+      * Other: great experience in  working with existing code, implementation / debug multi thread code, native C++ on Android, using dynamic libraries on different OS.
+  * Key accomplishments: Implement features required for new release or customer request, for example: enabled support new codecs, added processing steps (resize, color conversion, etc), improved performance via new way of memory allocation / found and avoided extra copy. Worked with customers, including investigation / fix issue, helped correct integrate product, discuss and implemented feature requests. Related GitHub project: https://github.com/Intel-Media-SDK/MediaSDK.
 * Summer School (like intern for 2 moth) in Intel since Jun 2014 to August 2014
-  * Main activities and responsibilities:
-  * Project description:
+  * Main activities and responsibilities: implementation of probability cache model.
+  * Project description: predict cache misses on any HW platform for application based on trace collected on one platform. It’s simulator which used probability model.
   * Used skills:
-  * Key accomplishments:
+      * Languages: C/C++, JS, Python.
+      * IDE/Build systems/tools: Visual Studio, Python, SVN, Intel VTune.
+  * Key accomplishments: enabled base functionality, was used as prove of concept.
 
 **EDUCATION AND TRAINING**
   * **Master degree in Lobachevsky University (UNN) (2012 - 2018).** Fundamental information technology, IITMM (CMC  - calculation math and cybernetic). Specialized on computer graphic.
 
 **PERSONAL SKILLS AND COMPETENCES**
+
+* Technical Skills
+    * OS:
+        * Windows: developing dynamic libraries and applications which include using WIN API, cross process communication, multy threading, have experience in cross platform build.
+        * Ubuntu: developing dynamic libraries and applications, cross process communication, multy threading, have experience in cross platform build.
+        * Android: developing dynamic libraries, native applications, normal applications, services (codecs for Codec 2.0), cross process communication, multy threading, have experience in cross platform build.
