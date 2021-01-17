@@ -43,3 +43,29 @@
         * Windows: developing dynamic libraries and applications which include using WIN API, cross process communication, multy threading, have experience in cross platform build.
         * Ubuntu: developing dynamic libraries and applications, cross process communication, multy threading, have experience in cross platform build.
         * Android: developing dynamic libraries, native applications, normal applications, services (codecs for Codec 2.0), cross process communication, multy threading, have experience in cross platform build.
+    * Program Languages:
+        * C/C++: main language, usin on current work, used in MSDK project (Intel).
+        * C#: wrote samples and gui of debug tool (library calls tracer) for MSDK project, used in university (just simple gui applications).
+        * Java: debug android application for MSDK project.
+        * Python: wrote build framework and samples (using TensorRT) for Huawei projects.
+        * Perl: debug test for MSDK project.
+        * Java Script: non comercial using (small games)
+        * PHP: non comercial using at university.
+    * Technology:
+        * Open GL.
+        * Open CL.
+        * NEON vectorization.
+        * MPI.
+        * OpenMP.
+        * TBB.
+        * CUDA.
+        * TensorRT.
+        * LLVM.
+    * Development Tools:
+        * GIT.
+        * Jira.
+        * Android Studio.
+        * Visual Studio.
+        * Intel Parallel Studio XE (Amplifier, Advisor).
+        * CMake.
+        * Ninja.
