@@ -38,6 +38,9 @@
 
 **PERSONAL SKILLS AND COMPETENCES**
 
+
+The most part of experience related to real time image and video processiong, including encode / decode by H264, H265, VP9, VP8, MPEG, ... Target on performance, so used different types of optimization like moving part of pipeline to GPU, vectorization, etc.
+
 * Technical Skills
     * OS:
         * Windows: developing dynamic libraries and applications which include using WIN API, cross process communication, multy threading, have experience in cross platform build.
