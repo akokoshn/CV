@@ -6,11 +6,23 @@
 * Date of birth		22 JULY 1994
 
 **WORK EXPERIENCE**
-* **Lead Software Engineer in Luxoft since September 2022 to NOW**
+* **Compiler Engineer in NILL Foundation since September 2023 to NOW**
   * Main activities and responsibilities:
-      Support and improve virtual simulation test (close loop) environment for automotive, Investigate external solutions.
+      Support and improve compiler part of zkLLVM toolchain
   * Project description:
-      Close loop virtual test environment, which able to provide sensor’s data (camera, lidar, …) based on the virtual scene and react on position of car.
+      * Compiler based on LLVM with support compilation target adjusted for zero knowlage protocol requirments, including special intrinsics, AST optimization featues, etc.
+      * Tool for convert LLVM IR to polinoms (circuit system) and execute trace (assignment table).
+  * Used skills:
+      * Languages: C/C++, Python.
+      * IDE/Build systems/tools: Visual Studio / VS Code (build tools), CMake, Ninja, Python, GIT, GitHub.
+  * Key accomplishments: Enable few features like integrate custom #paragme into LLVM, split execution trace by execution units, ...
+  * GitHub: https://github.com/NilFoundation/zkLLVM
+* **Lead Software Engineer in Luxoft since September 2022 to September 2023**
+  * Main activities and responsibilities:
+      Support and improve virtual simulation test (close loop) environment for automotive, Investigate external solutions. Enable new functionality for automatocally update system, including collaboration with dependent teams and preparing features roadmap. 
+  * Project description:
+      * Close loop virtual test environment, which able to provide sensor’s data (camera, lidar, …) based on the virtual scene and react on position of car.
+      * Pretty stable update system for car onboard software.
   * Used skills:
       * Languages: C/C++, Python, C#.
       * IDE/Build systems/tools: Visual Studio (build tools), Unity, eCAL, CMake, Ninja, Python, GIT, GitLab.
